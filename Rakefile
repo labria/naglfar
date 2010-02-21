@@ -5,8 +5,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "naglfar"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = %Q{The most useless, but irreplaceable gem}
+    gem.description = %Q{This gem does nothing but declare the Naglfar class. But you do want a Naglfar in case of the Ragnarök, don't you?}
     gem.email = "labria@startika.com"
     gem.homepage = "http://github.com/labria/naglfar"
     gem.authors = ["Dimitri Krassovski"]

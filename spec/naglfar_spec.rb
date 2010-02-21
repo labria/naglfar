@@ -1,7 +1,7 @@
 require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
 
 describe "Naglfar" do
-  it "fails" do
-    fail "hey buddy, you should probably rename this file and start specing for real"
+  it "should say the words" do
+    Naglfar.instance.build.should == "It's not time yet!"
   end
 end
