@@ -1,6 +1,6 @@
 = naglfar
 
-Description goes here.
+This gem does nothing but declare the Naglfar class. But you do want a Naglfar in case of the Ragnarök, don't you?
 
 == Note on Patches/Pull Requests
  
