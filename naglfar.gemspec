@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/naglfar.rb",
+     "naglfar.gemspec",
      "spec/naglfar_spec.rb",
      "spec/spec.opts",
      "spec/spec_helper.rb"
