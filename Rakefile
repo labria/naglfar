@@ -8,7 +8,7 @@ begin
     gem.summary = %Q{The most useless, but irreplaceable gem}
     gem.description = %Q{This gem does nothing but declare the Naglfar class. But you do want a Naglfar in case of the Ragnarök, don't you?}
     gem.email = "labria@startika.com"
-    gem.homepage = "http://github.com/labria/naglfar"
+    gem.homepage = "http://blog.startika.com/2010/02/21/naglfar-release/"
     gem.authors = ["Dimitri Krassovski"]
     gem.add_development_dependency "rspec", ">= 1.2.9"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
