@@ -1,3 +1,6 @@
+{<img src="https://travis-ci.org/labria/naglfar.png?branch=master" alt="Build Status" />}[https://travis-ci.org/labria/naglfar]
+{<img src="https://codeclimate.com/github/labria/naglfar.png" />}[https://codeclimate.com/github/labria/naglfar]
+
 = naglfar
 
 This gem does nothing but declare the Naglfar class. But you do want a Naglfar in case of the Ragnarök, don't you?
